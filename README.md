@@ -1,39 +1,39 @@
-# SpringBoot会议管理系统
+# SpringBoot会议管理系统、
+ **
 
-#### 介绍
-计算机毕业设计
-SpringBoot框架
-Mysql数据库
+### 定制调试讲解毕业设计加微信jsjbyzd
+** 
 
-#### 软件架构
-软件架构说明
+🎓【毕业设计选题】
+在快节奏的工作环境中，会议是企业决策和沟通的重要环节。一个高效、智能的会议管理系统对于提高企业运营效率、确保信息流通具有重要意义。
 
+🛠️【技术栈剖析】
 
-#### 安装教程
+核心框架：SpringBoot，Java企业级应用的轻量级框架，快速搭建RESTful API，保障服务的高效与稳定。
+数据库：MySQL，关系型数据库，存储会议信息、用户数据和会议资料。
+前端技术：可以选择Thymeleaf模板引擎快速构建页面，或者使用Vue.js等现代JavaScript框架。
+📋【系统功能详解】
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+会议预约：用户可以在线预约会议室，系统自动检查会议室的可用性并进行安排。
+会议通知：系统自动发送会议通知给参与者，确保每个人都能及时收到会议信息。
+资料共享：会议资料可以上传至系统，方便参与者提前查看和准备。
+会议记录：系统支持会议过程中的记录和后续的资料整理，方便追踪和回顾。
+数据统计：系统提供会议使用情况的统计分析，帮助企业优化资源配置。
+![输入图片说明](1.png)
+![输入图片说明](2.png)
+![输入图片说明](3.png)
+![输入图片说明](4.png)
+![输入图片说明](5.png)
+![输入图片说明](6.png)
+![输入图片说明](7.png)
+![输入图片说明](8.png)
+![输入图片说明](9.png)
+![输入图片说明](10.png)
 
-#### 使用说明
+ **
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### 学生案例
+** 
+![输入图片说明](ddc50bd481492d1ecece47729cea0f6.jpg)
+![输入图片说明](c1456d7170def8a4666b0f62bfb38b6.jpg)
+![输入图片说明](6bb997a1a8597a92b58a07f44ec1831.jpg)
